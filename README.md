@@ -10,3 +10,4 @@ Features:
 </p>
 
 video Link :'https://drive.google.com/file/d/1VeWzMD5Bkk8BA8YyjglJrsehXoPLViZE/view?usp=sharing'
+Deploy Link :"https://softsensor-assignment.netlify.app"
